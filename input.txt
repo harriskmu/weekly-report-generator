@@ -1,0 +1,5 @@
+- finished the dashboard redesign
+- met with ops team about automation rollout
+- SQL pipeline is still broken, waiting on IT
+- need to prep Q3 presentation next week
+- onboarded two new vendors
